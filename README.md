@@ -1,2 +1,2 @@
 voice-to-action
-Automatization for MyVoice's actions in ASANA 
+Automate Asana Tasks from MyVoice Associate Requests
